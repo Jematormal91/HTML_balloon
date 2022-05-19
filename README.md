@@ -7,4 +7,4 @@ The key names of the arrow keys are "ArrowUp" and "ArrowDown". Make sure the key
 
 When that works, add a feature where, if you blow up the balloon past a certain size, it explodes. In this case, exploding means that it is replaced with an 💥 emoji, and the event handler is removed (so that you can’t inflate or deflate the explosion).</br>
 
-* main method: [Balloon.html](Balloon.html)
+* view of completed method: [Balloon.html](https://raw.githack.com/Jematormal91/JS_balloon/3caaf4d9d6ce36d685f7ba079420811233170d7e/Balloon.html)
